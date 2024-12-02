@@ -28,17 +28,29 @@ NSSM logs all its progress directly into the system Event Log, enabling users to
 This feature set makes NSSM an effective and versatile tool for managing applications as services across various Windows operating systems.
 
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 nssm manager
 
 nssm windows
